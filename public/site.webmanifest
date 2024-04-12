@@ -3,14 +3,14 @@
   "short_name": "xiaohao-chat",
   "icons": [
     {
-      "src": "https://blog.xh8.shop/images/touxiang.jpg",
+      "src": "/touxiang.png",
       "sizes": "192x192",
-      "type": "image/jpg"
+      "type": "image/png"
     },
     {
-      "src": "https://blog.xh8.shop/images/touxiang.jpg",
+      "src": "/touxiang.png",
       "sizes": "512x512",
-      "type": "image/jpg"
+      "type": "image/png"
     }
   ],
   "start_url": "/",
